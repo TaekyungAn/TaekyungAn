@@ -11,6 +11,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+# About me
+<a href="https://velog.io/@forntweb_tk" target="_blank"><img src="https://img.shields.io/badge/Blog-Velog-20C997?style=flat-square&logo=velog&logoColor=20C997"/></a>
+</br>
+<a href="mailto:atk0426@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-Naver-03C75A?style=flat-square&logo=naver&logoColor=03C75A"/></a>
 
 ## Stacks
 <!-- language -->
@@ -27,5 +33,16 @@
 
 </br>
 
+
+## Statistics
 <!-- 종합성적표 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaekyungAn&show_icons=true&theme=default)
+
+<!-- 코드비율 -->
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaekyungAn&layout=compact&theme=default)
+ -->
+
+## Contact
+📫 atk0426@naver.com
+</div>
