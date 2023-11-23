@@ -33,16 +33,6 @@
 
 </br>
 
-
-## Statistics
-<!-- 종합성적표 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaekyungAn&show_icons=true&theme=default)
-
-<!-- 코드비율 -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaekyungAn&layout=compact&theme=default)
- -->
-
 ## Contact
 📫 atk0426@naver.com
 </div>
